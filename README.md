@@ -1,5 +1,5 @@
 # Project Fokus feito com TypeScript .
 
-## código bem completo e GIF nos arquivos para visualizar a aplicação.
+### GIF está nos arquivos p/ visualizar a aplicação.
 
-### Código fonte no arquivo -> script-crud.ts
+#### Código fonte no arquivo -> script-crud.ts
